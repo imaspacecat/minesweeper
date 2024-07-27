@@ -1,4 +1,4 @@
-# snake game
+# minesweeper game
 
 written in c with [raylib](https://github.com/raysan5/raylib)
 
